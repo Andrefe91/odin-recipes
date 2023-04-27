@@ -1,2 +1,2 @@
 # odin-recipes
-Practice for the curse "The odin Project", specifically for the foundation of HTML
+Practice for the curse "The odin Project", specifically for the foundation of HTML using Markdown language. For this, we created three webpages, corresponding to three dishes recipes. The webpages have no CSS associated for this practice. 
