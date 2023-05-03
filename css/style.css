@@ -1,0 +1,29 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Title, .list {
+    background-color: rgba(255, 20, 145, 0.342);
+    width: 300px;
+    text-align: center;
+}
+
+.list {
+    background-color: aliceblue;
+}
+
+a {
+    color:brown;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.list.wide {
+    width: 600px;
+    text-align: left;
+}
+
+.list h3 {
+    font-weight: bold;
+    color: rgb(219, 72, 200);
+}
